@@ -39,16 +39,17 @@ pip install -r requirements.txt
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/cli-calculator.git
+   git clone https://github.com/lukaszzielinski2003/cli-calculator
    ```
 
 3. Navigate to the project folder:
 
    ```bash
-   cd cli-calculator
+   cd cli_calculator
    ```
 
 4. Run the program:
+
    ```bash
    python main.py
    ```
@@ -68,6 +69,7 @@ pip install -r requirements.txt
    ```
 
 3. To run tests with pytest:
+
    ```bash
    pytest tests
    ```
