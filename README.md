@@ -39,7 +39,7 @@ pip install -r requirements.txt
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/lukaszzielinski2003/cli-calculator
+   git clone https://github.com/lukaszzielinski2003/cli_calculator
    ```
 
 3. Navigate to the project folder:
