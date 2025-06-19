@@ -18,7 +18,7 @@ This is a simple Command Line Interface (CLI) calculator written in Python. It s
 
 2. Make sure you have Python 3 installed.
 
-3. Run the game:
+3. Run the program:
 
 ```bash
 python main.py
